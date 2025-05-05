@@ -46,5 +46,4 @@ This project helped me solidify my understanding of :
 **Graphical user interface (GUI): create a graphical interface using different python libraries like Tkinter or PyQt.
 
 ## Author
-DonaldXoft Dev
-* 
+DonaldXoftDev
